@@ -37,6 +37,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
     * If you get an early Blood Moon and gather enough blood orbs you can get abyss weapons way before you're supposed to - make a Zen potion on Alchemy Table up on the main planetoids, venture into the dungeon (Zen should block Dungeon Guardians) and hope for some golden keys in wooden chests so that you can keep praying for shadow key.
     * Boots are mandatory for 90% of the fights.
+    * __GET A HOOK ASAP.__
     * Warding isn't too bad at this stage, although more damage would be preferred.
     * If in Revengeance or above consider farming King Slime/Desert Scourge for Laudanum/Stress Pills (Laud's much better), gives too many stats packed into one accessory.
     * Goblins are pre-boss, so go ahead and knock yourself out with all those upgraded accessories.
@@ -79,6 +80,7 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
     * Blood Pact is bad. Yes, that fucking bad. Don't ever use it.
     * So is Heart of the Elements.
     * Hallowed armor is also bad.
+    * Ambrosial Ampoule is only useful for exploration, so don't even think about using it on bosses. Unless you really wanna tank.
     * Right after Clonelamitas dies most classes can skidaddle to the Abyss and get better weapons. Except melee. Typhon's Greed is a meme.
     * Everyone can ignore GSS, the only "good" weapon is Duststorm in a Bottle, and it's pretty much outclassed by any throwing weapon you can get at that point.
     * Money farms: Queen Bee and Ravager (only if you're used to him, he’s quite a pain to nohit, even with post-ML gear otherwise it’s better to armageddon Queens).
@@ -314,6 +316,8 @@ Or plop them over to [discord](https://discord.gg/8hwAmgb).
 
 #### [Polterghast](postml/Polter.md)
 
+#### [Abyss, Trip 3](unrelated/abyss3.md)
+
 #### [DoG](postml/DoG.md)
 
 #### [Bumblebirb](postml/Bumblebirb.md)
@@ -399,5 +403,5 @@ Special thanks to some of the people on leviathan's discord, namely Amelia Faye,
 
 **Shit we're gonna have to look into for next update:**
 
-* Yes.
+* [Yes.](https://docs.google.com/document/d/12hjA6i4s3ebwXEoiWp6LeBvy2e_Qbp69gvyGc6UnBJI/edit)
 

@@ -12,7 +12,7 @@
 
     * **Ranged**: Conclave Crossfire, Helstorm, Ballista, Malevolence. Terra Ammo.
 
-    * **Melee**: Omniblade, Terra Lance, True Forbidden Oathblade, Hellfire Flamberge.
+    * **Melee**: Omniblade, *Terra Lance*, True Forbidden Oathblade, Hellfire Flamberge.
 
     * **Mage**: Undine's Retribution, Everglade Spray, Primordial Earth, Plague Staff, Forbidden Sun.
 
@@ -41,3 +41,5 @@
     * Ravager's two Flame Pillars, every 6 seconds (might get more frequent as the fight goes on?), teleport ~10 tiles to your left and right. The position is determined just before they teleport, so lateral movement can result in one of them materializing on top of you. Keep him on the edge of your screen because if you come closer you risk being bashed with his warpfists, and if you go farther you’ll be petrified (naturally you don’t want this).
 
 ![image alt text](../public/BMbpD6rCZ1qoniF20u7H2A_img_56.png)
+
+<div align="center"><iframe width="620" height="315" src="https://www.youtube.com/embed/3kbFy0E5uss" frameborder="0" allowfullscreen></iframe></div>
